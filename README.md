@@ -408,14 +408,15 @@ A collection of awesome things regarding React ecosystem.
 * [react-scrollbar - Simple ScrollArea component built for React](https://github.com/souhe/reactScrollbar)
 * [react-experiments - Implement A/B tests with randomized parameterizations of your components](https://github.com/HubSpot/react-experiments)
 * [react-slide-deck - For swipe, tabs, carousel, one page scroll. With animation hooks. tweening, tween callbacks](https://github.com/jl-/react-slide-deck)
-* [react-resizable-box - Resizable component for React](https://github.com/bokuweb/react-resizable-box)
+* [react-
+zable-box - Resizable component for React](https://github.com/bokuweb/react-resizable-box)
 * [react-ios-switch - React switch component](https://github.com/clariussystems/react-ios-switch)
 * [react-listview-sticky-header - Turn listview with section headers that stick to the top](https://github.com/cht8687/react-listview-sticky-header)
 * [react-expandable-listview - Create listview with expandable section headers](https://github.com/cht8687/react-expandable-listview)
 * [react-keydown - Lightweight keydown wrapper for React components](https://github.com/glortho/react-keydown)
 * [searchkit  - Components to build user interfaces for elasticsearch](https://github.com/searchkit/searchkit)
 * [grommet - The most advanced UX framework for enterprise applications](https://github.com/grommet/grommet)
-* [react-resizable-and-movable - Resizable and movable component for React](https://github.com/bokuweb/react-resizable-and-movable)
+* [react-rnd - Resizable and movable component for React](https://github.com/bokuweb/react-rnd)
 * [react-sidebar - An app like sidebar for React including touch support](https://balloob.github.io/react-sidebar/example)
 * [react-motion - An spring-based animation library, similar to Rebound.js](https://github.com/chenglou/react-motion)
 * [react-motion-menu - Motion menu component powered by React Motion](https://github.com/bokuweb/react-motion-menu)
@@ -1001,11 +1002,6 @@ A collection of awesome things regarding React ecosystem.
 * [mozilla/payments-ui](https://github.com/mozilla/payments-ui)
 * [webbylab/itsquiz-wall](https://github.com/webbylab/itsquiz-wall)
 * [brainfock/brainfock](https://github.com/brainfock/brainfock)
-
----
-### allanfish补充
-
-* [react-rnd - Resizable and draggable component for React](https://github.com/bokuweb/react-rnd)
 
 ---
 ### Contribution
