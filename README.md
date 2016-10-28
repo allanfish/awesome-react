@@ -293,6 +293,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-markdown-textarea - Component to create textareas for entering Markdown](https://github.com/KyleAMathews/react-markdown-textarea)
 * [react-markdown-area - Github flavored markdown editor with live preview](https://github.com/MattMcFarland/react-markdown-area)
 * [medium-draft: A medium like Rich Text Editor built on draft-js with a focus on keyboard shortcuts](https://github.com/brijeshb42/medium-draft)
+* [draft-wysiwyg: Draft-JS experiments with drag&drop, resizing, tooltips, WIP](https://github.com/bkniffler/draft-wysiwyg/)
 * [react-textarea-autosize - Textarea component for React which grows with content](https://github.com/andreypopp/react-textarea-autosize)
 * [react-spinner - Zero configuration loading spinner](https://github.com/chenglou/react-spinner)
 * [react-treeview - Easy, light, flexible tree view made with React](https://github.com/chenglou/react-treeview)
